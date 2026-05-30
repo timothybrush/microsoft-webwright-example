@@ -1,7 +1,7 @@
 # Microsoft WebWright — Google Flights Example
 
 > A reference implementation of the **Microsoft WebWright architecture**.
-> Route: **HKG ⇌ CJU** · Depart: **08-Aug-2026** · Return: **14-Aug-2026** · Budget: **HK$20,000**
+>A real-world WebWright agent that autonomously browses Google Flights, compares round-trip itineraries (HKG ⇌ CJU), and saves a structured recommendation — powered by GPT-4o, Playwright, and a three-component Runner / Model / Environment loop with built-in self-reflection.
 
 ---
 
