@@ -1,0 +1,60 @@
+================================================================
+MICROSOFT WEBWRIGHT - SKILL WORKFLOW
+Skill  : google-flights-comparison
+Route  : HKG ⇄ CJU | Aug 8 → Aug 14, 2026
+Budget : HK$20,000 | Economy • 1 passenger
+================================================================
+
+OUTBOUND FLIGHTS (HKG → CJU) — 08-Aug-2026
+================================================================
+
+1. HK Express UO | 02:30–06:30 | Nonstop | HK$2,340 ← cheapest (early dep)
+2. HK Express UO | 08:35–12:35 | Nonstop | HK$2,721 ← balanced ✓
+3. Jin Air BX    | 09:00–13:10 | Nonstop | HK$2,580
+4. Cathay Pacific| 10:15–14:20 | Nonstop | HK$3,100
+5. Korean Air KE | 07:00–13:30 | 1 stop  | HK$1,980
+
+RETURN FLIGHTS (CJU → HKG) — 14-Aug-2026
+================================================================
+
+1. HK Express UO | 14:00–16:10 | Nonstop | HK$2,380
+2. HK Express UO | 19:30–21:45 | Nonstop | HK$2,380 ← selected ✓
+3. Jin Air BX    | 20:00–22:15 | Nonstop | HK$2,650
+4. Cathay Pacific| 16:00–18:10 | Nonstop | HK$3,050
+5. Korean Air KE | 15:00–21:30 | 1 stop  | HK$1,850
+
+================================================================
+RECOMMENDED ITINERARIES WITHIN HK$20,000
+================================================================
+
+Option 1 — Cheapest (early departure):
+  Outbound : HK Express UO 02:30–06:30 | Nonstop | HK$2,340
+  Return   : HK Express UO 19:30–21:45 | Nonstop | HK$2,380
+  Total    : HK$4,720 | Saving: HK$15,280 under budget
+  ⚠ Caution: 02:30 departure is impractical for most travellers
+
+Option 2 — RECOMMENDED (balanced, nonstop):
+  Outbound : HK Express UO 08:35–12:35 | Nonstop | HK$2,721 (via Agoda)
+  Return   : HK Express UO 19:30–21:45 | Nonstop | HK$2,380
+  Total    : HK$5,101 | Saving: HK$14,899 under budget
+  ✓ Nonstop both ways, practical departure, well under budget
+
+Option 3 — Later return (Jin Air):
+  Outbound : Jin Air BX 09:00–13:10 | Nonstop | HK$2,580
+  Return   : Jin Air BX 20:00–22:15 | Nonstop | HK$2,650
+  Total    : HK$5,230 | Saving: HK$14,770 under budget
+  ✓ Latest return time, nonstop both ways
+
+================================================================
+FINAL RECOMMENDATION
+================================================================
+
+Best itinerary: Option 2 — HK Express nonstop both ways (via Agoda)
+
+• HK Express UO 08:35 HKG → CJU (12:35) — booked via Agoda at HK$2,721
+• HK Express UO 19:30 CJU → HKG (21:45) — HK$2,380
+• Total: HK$5,101 — 74% under HK$20,000 budget
+• Avoids the very early 02:30 outbound flight
+• Remaining budget for accommodation & activities: HK$14,899
+
+================================================================
