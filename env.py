@@ -130,3 +130,15 @@ def list_workspace_files() -> list:
     return os.listdir(WORKSPACE_DIR)
 
   
+def capture_observation(cmd_result: dict) -> str:
+        """Format command result as an observation string for the agent loop."""
+        parts = []
+        if cmd_result["stdout"].strip():
+            parts.append(f"STDOUT:\n{cmd_result['stdout'].strip()}")
+        if cmd_result["stderr"].strip():
+            parts.append(f"STDERR:\n{cmd_result['stderr'].strip()}")
+        parts.append(f"Return code: {cmd_result['returncode']}")
+        files = list_workspace_files()
+        if files:
+            parts.append(f"Workspace files: {', '.join(files)}")
+        return "\n".join(parts)
