@@ -70,6 +70,9 @@ The skill is defined in `skills/google_flights_comparison.py` and loaded by `run
 
 This project follows the three-component **WebWright** pattern:
 
+# Microsoft Webwright Example
+
+![Webwright Architecture](IMG_20260530_220140.png)
 ```
 User Task ——→ |          run.py (Runner)           |
               | • Initialises history with the task |
