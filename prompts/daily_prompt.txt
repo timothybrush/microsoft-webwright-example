@@ -1,2 +1,2 @@
-Prompt of the day (2026-06-17):
-Build a CI/CD pipeline with Webwright
+Prompt of the day (2026-06-18):
+Deploy a Kubernetes cluster using Webwright
