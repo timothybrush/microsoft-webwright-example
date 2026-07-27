@@ -1,2 +1,2 @@
-Prompt of the day (2026-07-26):
-Create a DevOps dashboard with Webwright
+Prompt of the day (2026-07-27):
+Generate Python test cases using Webwright
