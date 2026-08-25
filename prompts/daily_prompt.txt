@@ -1,2 +1,2 @@
-Prompt of the day (2026-08-24):
-Generate Python test cases using Webwright
+Prompt of the day (2026-08-25):
+Monitor cloud deployments via Webwright
