@@ -1,2 +1,2 @@
-Prompt of the day (2026-11-12):
-Deploy a Kubernetes cluster using Webwright
+Prompt of the day (2026-11-13):
+Automate Docker builds with Webwright
